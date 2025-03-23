@@ -55,6 +55,8 @@ streamlit run app.py
 | Example UI                                                           |
 | -------------------------------------------------------------------- |
 | ![screenshot](https://github.com/Umar-Tariq/movie-recommendation-system/blob/e763dac1a75e952cde3baa999cf9a4ab68b96b66/1.png) |
+| ![screenshot](https://github.com/Umar-Tariq/movie-recommendation-system/blob/fbe6911ebabbc1f9b93dc2d789ef1c418f477bf4/2.png) |
+
 
 
 ## 🧠 How It Works
