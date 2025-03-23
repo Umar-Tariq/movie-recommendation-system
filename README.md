@@ -54,7 +54,7 @@ streamlit run app.py
 
 | Example UI                                                           |
 | -------------------------------------------------------------------- |
-| ![screenshot](C:\Users\tariq\OneDrive\Desktop\Projects\images\1.png) |
+| ![screenshot](https://github.com/Umar-Tariq/movie-recommendation-system/blob/e763dac1a75e952cde3baa999cf9a4ab68b96b66/1.png) |
 
 
 ## 🧠 How It Works
